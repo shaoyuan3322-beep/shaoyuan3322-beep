@@ -29,6 +29,7 @@
 ### AI 新闻情报平台
 
 一个面向信息获取与业务研究场景的 AI 辅助情报工作流，用于完成多信息源采集、筛选、去重、分析与结构化输出。
+[查看完整项目案例 →](https://github.com/shaoyuan3322-beep/AI-News-Intelligence)
 
 #### 核心功能
 
